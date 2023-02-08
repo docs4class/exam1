@@ -14,5 +14,5 @@
 3. Considering only patients with a billing date, are the demographics of each clinic the same?  Use both statistics and some plots to answer this question.  
 4. Summarize in words your conclusions.
 5. What are the most commonly used insurance companies both by visits and cost? 
-6. Is insurance usage thes same for each clinic? 
-7. What other insights could you derive from this data?
+6. Is insurance usage these same for each clinic? 
+7.**What other insights could you derive from this data?**

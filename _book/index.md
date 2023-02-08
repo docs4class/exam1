@@ -13,5 +13,9 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Home Base for Exam 1
+# Details for Exam 1
 
+- Due by emailed html to `jtturner@presby.edu` no later than midnight Sunday, February 12.
+- Format (warnings, messages, headers, etc.) are counted
+- Your conclusions matter as much as your output --  more actually!
+- Class time on Friday is optional, details to come

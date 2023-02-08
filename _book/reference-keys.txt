@@ -1,4 +1,4 @@
-home-base-for-exam-1
+details-for-exam-1
 real-data-real-problems
 the-data
 questions
