@@ -1,11 +1,18 @@
-# Hello bookdown 
+# Real data; real problems
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+## The data
 
-## A section
+[Patient Demographics](https://drive.google.com/file/d/1xdZJrkzG_FNxVUFwrGm6b1HGtUWA510w/view?usp=sharing)
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+[Visit Details](https://drive.google.com/file/d/1ighQbbB3okKcJBBPuOTKKPFoQFYaX255/view?usp=sharing)
 
-### An unnumbered section {-}
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+## Questions
+
+1. What is the average cost per visit per patient?  
+2. Is this same for each clinic? 
+3. Considering only patients with a billing date, are the demographics of each clinic the same?  Use both statistics and some plots to answer this question.  
+4. Summarize in words your conclusions.
+5. What are the most commonly used insurance companies both by visits and cost? 
+6. Is insurance usage thes same for each clinic? 
+7. What other insights could you derive from this data?
